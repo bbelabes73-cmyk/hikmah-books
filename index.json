@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "baseUrl": "https://raw.githubusercontent.com/bbelabes73-cmyk/hikmah-books/main/books/",
+  "books": [
+    {
+      "id": "wasitiyyah",
+      "title": "العقيدة الواسطية ابن تيمية",
+      "author": "غير معروف",
+      "category": "",
+      "description": "",
+      "epubUrl": "wasitiyyah.epub",
+      "coverColor": "#1B5E20"
+    }
+  ]
+}
